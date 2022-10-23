@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android3</string>
+    <string name="task_name_hint">Name your task</string>
+    <string name="task_name_label">Name</string>
+    <string name="task_details_label">Details</string>
+    <string name="task_done_label">Done</string>
+    <string name="task_item_name">itemName</string>
+    <string name="task_item_date">itemDate</string>
+</resources>
